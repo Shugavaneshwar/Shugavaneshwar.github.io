@@ -1,7 +1,10 @@
+title: ShugaVaneshwar
+description: My GitHub Portfolio
 theme: jekyll-theme-minimal
-title: Shugavaneshwar
-description: Your Portfolio
+
+# Remove the default GitHub profile button
+show_downloads: false
 github:
   is_project_page: false
 
-[🔗 Visit My GitHub Profile](https://github.com/NickStrain)
+
