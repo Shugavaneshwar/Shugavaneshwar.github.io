@@ -1,2 +1,7 @@
-title: Shugavaneshwar
 theme: jekyll-theme-minimal
+title: Shugavaneshwar
+description: Your Portfolio
+github:
+  is_project_page: false
+
+[🔗 Visit My GitHub Profile](https://github.com/NickStrain)
