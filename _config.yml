@@ -3,21 +3,20 @@ logo: assests/profile_photo.jpeg
 
 # This will show on the LEFT side under the profile photo
 description: |
-  Aspiring Data Scientist | AI & Cloud Enthusiast \n
-  Passionate about AI, Machine Learning, and Cloud Computing.  \n
-  Focused on building intelligent real-time and scalable systems.  \n
+  Aspiring Data Scientist | AI & Cloud Enthusiast 
+  Passionate about AI, Machine Learning, and Cloud Computing. 
+  Focused on building intelligent real-time and scalable systems. 
 
-🛠 Tech Skills: |
-  - Programming: Python, JavaScript, SQL  \n
-  - Machine Learning: Scikit-learn, TensorFlow, PyTorch  \n
-  - Cloud Platforms: AWS, GCP, Azure  \n
-  - Web & Tools: FastAPI, React, Docker, Kubernetes  \n
+key : |
+  - Programming: Python, JavaScript, SQL  <br \> 
+  - Machine Learning: Scikit-learn, TensorFlow, PyTorch 
+  - Cloud Platforms: AWS, GCP, Azure 
+  - Web & Tools: FastAPI, React, Docker, Kubernetes 
 
 theme: jekyll-theme-minimal
 show_downloads: false   # removes GitHub logo button
 
 # disable github button
-github:
-  is_project_page: false
+github: false
 
 
