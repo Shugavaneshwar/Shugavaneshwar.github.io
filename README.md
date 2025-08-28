@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <div style="text-align: center;">
   <img src="assests\profile_photo_1.jpeg" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;">
