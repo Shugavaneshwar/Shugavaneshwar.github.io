@@ -1,7 +1,5 @@
-title: ShugaVaneshwar
-description: My GitHub Portfolio
-
-theme: jekyll-theme-minimal
-
+title: Shugavaneshwar 
 logo: assests/profile_photo_1.jpeg
-github: false
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
