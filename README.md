@@ -20,11 +20,11 @@
 
 ## Projects
 ### Neural Machine Translation for Tamil
-[GitHub Link](github.com/NickStrain/Machine-Translation.git)
+[GitHub Link](https://github.com/NickStrain/Machine-Translation)
 
-Developed a model aiming to achieve a BLEU score of 41, surpassing current benchmarks for Tamil language translation models.\n
-Optimized the model to achieve high performance with minimal processing power, reducing computational requirements by 20% compared to baseline models.\n
-Processed and binarized the Bharath Parallel Corpus Collection (BPCC), containing 8GB of sentence pairs for Tamil language, for training.\n
+Developed a model aiming to achieve a BLEU score of 41, surpassing current benchmarks for Tamil language translation models.<br />
+Optimized the model to achieve high performance with minimal processing power, reducing computational requirements by 20% compared to baseline models.<br />
+Processed and binarized the Bharath Parallel Corpus Collection (BPCC), containing 8GB of sentence pairs for Tamil language, for training.<br />
 
 
 ![EEG Band Discovery](assests/Neural_MT.png)
@@ -32,9 +32,9 @@ Processed and binarized the Bharath Parallel Corpus Collection (BPCC), containin
 ### Image Captioning: 
 [GitHub Link](https://github.com/NickStrain/Image-Captioning.git)
 
-Built a model that annotates images with relevant captions, achieving a BLEU score of 0.5, indicating high relevance and accuracy.
-Utilized a Convolutional Neural Network (CNN) to extract visual features such as color, shape, and texture from images.
-Reduced training time by 30% through efficient preprocessing and model optimization techniques.
+Built a model that annotates images with relevant captions, achieving a BLEU score of 0.5, indicating high relevance and accuracy.<br />
+Utilized a Convolutional Neural Network (CNN) to extract visual features such as color, shape, and texture from images.<br />
+Reduced training time by 30% through efficient preprocessing and model optimization techniques.<br />
 
 
 ![Bike Study](assests/Image_caption.png)
@@ -42,12 +42,12 @@ Reduced training time by 30% through efficient preprocessing and model optimizat
 ### Satellite Image Segmentation: 
 [GitHub Link](https://github.com/NickStrain/Image-Captioning.git)
 
-Designed a model to segment satellite images into classes like land, water, and roads, achieving a mean Intersection over Union (mIoU) score of 78%.
-Combined U-Net with ViT (Vision Transformer) to enhance accuracy while requiring only 1,500~ labeled images, demonstrating effectiveness with low data.
-Achieved a loss function value of 0.68, outperforming standard models on similar datasets by 15%.
+Designed a model to segment satellite images into classes like land, water, and roads, achieving a mean Intersection over Union (mIoU) score of 78%.<br />
+Combined U-Net with ViT (Vision Transformer) to enhance accuracy while requiring only 1,500~ labeled images, demonstrating effectiveness with low data.<br />
+Achieved a loss function value of 0.68, outperforming standard models on similar datasets by 15%.<br />
 
 
-![Bike Study](aassests/sat_image.png)
+![Bike Study](assests/sat_image.png)
 
 
 ## WorkShop & Lectures

@@ -1,5 +1,21 @@
-title: Shugavaneshwar 
-logo: assests/profile_photo.jpeg
-#description: text below image
-show_downloads: true
+title: Shugavaneshwar
+logo: assets/profile_photo.jpeg
+
+# This will show on the LEFT side under the profile photo
+description: |
+  **Aspiring Data Scientist | AI & Cloud Enthusiast**  
+  Passionate about AI, Machine Learning, and Cloud Computing.  
+  Focused on building intelligent real-time and scalable systems.  
+
+  **🛠 Tech Skills:**  
+  - Programming: Python, JavaScript, SQL  
+  - Machine Learning: Scikit-learn, TensorFlow, PyTorch  
+  - Cloud Platforms: AWS, GCP, Azure  
+  - Web & Tools: FastAPI, React, Docker, Kubernetes  
+
 theme: jekyll-theme-minimal
+show_downloads: false   # removes GitHub logo button
+
+# disable github button
+github:
+  is_project_page: false
