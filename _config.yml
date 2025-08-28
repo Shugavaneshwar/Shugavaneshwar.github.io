@@ -2,9 +2,7 @@ title: ShugaVaneshwar
 description: My GitHub Portfolio
 theme: jekyll-theme-minimal
 
-# Remove the default GitHub profile button
+# Disable default GitHub buttons
 show_downloads: false
 github:
   is_project_page: false
-
-
