@@ -1,8 +1,7 @@
 title: ShugaVaneshwar
 description: My GitHub Portfolio
+
 theme: jekyll-theme-minimal
 
-# Disable default GitHub buttons
-show_downloads: false
-github:
-  is_project_page: false
+logo: assests\profile_photo_1.jpeg
+github: false
