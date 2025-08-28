@@ -3,5 +3,5 @@ description: My GitHub Portfolio
 
 theme: jekyll-theme-minimal
 
-logo: assests\profile_photo_1.jpeg
+logo: assests/profile_photo_1.jpeg
 github: false
