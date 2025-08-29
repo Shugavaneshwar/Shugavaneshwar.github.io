@@ -1,6 +1,6 @@
- Data Scientist
 
-#### Technical Skills:  Python (numpy, pandas, scikit-learn, mlflow), Deep Learning Frameworks (PyTorch, TensorFlow), C/C++ , AWS, SQL , SnowFlake, Docker, Git, CI/CD(GitHub Actions),Shell programming.
+
+#### Technical Skills:      Python (numpy, pandas, scikit-learn, mlflow), Deep Learning Frameworks (PyTorch, TensorFlow), C/C++ , AWS, SQL , SnowFlake, Docker, Git, CI/CD(GitHub Actions),Shell programming.
 
 
 ## Education
@@ -19,6 +19,16 @@
 
 
 ## Projects
+### CleanMeet AI
+[GitHub Link](https://github.com/NickStrain/CleanMeetAI)
+
+Clean Meet AI is a real-time content safety system for video conferencing. It continuously monitors video, audio, and text streams during online meetings to detect and prevent NSFW visuals, offensive speech, and toxic chat messages.<br />
+Built a real-time AI system to monitor video, audio, and text streams, reducing NSFW and toxic content exposure by 90% in online meetings.<br />
+
+Achieved 95%+ detection accuracy across multimodal content with <200ms latency, ensuring seamless and safe conferencing.<br />
+
+Integrated with Zoom, Google Meet, and Microsoft Teams, enabling scalability across 100% of major conferencing platforms.<br />
+![EEG Band Discovery](assests/cleanmeet_AI.jpeg)
 ### Neural Machine Translation for Tamil
 [GitHub Link](https://github.com/NickStrain/Machine-Translation)
 
