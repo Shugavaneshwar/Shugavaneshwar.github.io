@@ -1,11 +1,11 @@
 
 
-#### Technical Skills: <br />
-Languages & Tools:  Python, C/C++, R, SQL, Git, Shell, MATLAB, CI/CD (GitHub Actions).<br />
-Data & Deployment: AWS (EC2, S3, Lambda), Docker, Kubernetes, MLflow, TFLite, REST APIs, Streamlit, Tableau, Power BI, ETL, CI/CD<br />
-Databases:  PostgreSQL, MySQL, MongoDB, Snowflake, Redis<br />
-Key Strengths: Real-time AI Systems, Data Science Pipelines, Model Optimization, Explainable AI (XAI), MLOps, Cloud-Native Deployments.<br />
-ML/AI: Predictive Modeling, Statistical Analysis, Deep Learning (PyTorch, TensorFlow), Computer Vision, NLP, Transformers, Generative Models, Large Language Models (LLMs), Data Mining, Reinforcement Learning, Optimizers, Feature Engineering <br />
+#### Technical Skills: <br /><br />
+<b>Languages & Tools:</b>  Python, C/C++, R, SQL, Git, Shell, MATLAB, CI/CD (GitHub Actions).<br /><br />
+<b>Data & Deployment:</b> AWS (EC2, S3, Lambda), Docker, Kubernetes, MLflow, TFLite, REST APIs, Streamlit, Tableau, Power BI, ETL, CI/CD<br /><br />
+<b>Databases: </b> PostgreSQL, MySQL, MongoDB, Snowflake, Redis<br /><br />
+<b>Key Strengths:</b> Real-time AI Systems, Data Science Pipelines, Model Optimization, Explainable AI (XAI), MLOps, Cloud-Native Deployments.<br /><br />
+<b>ML/AI:</b> Predictive Modeling, Statistical Analysis, Deep Learning (PyTorch, TensorFlow), Computer Vision, NLP, Transformers, Generative Models, Large Language Models (LLMs), Data Mining, Reinforcement Learning, Optimizers, Feature Engineering <br /><br />
 
 
 
