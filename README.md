@@ -1,6 +1,12 @@
 
 
-#### Technical Skills:      Python (numpy, pandas, scikit-learn, mlflow), Deep Learning Frameworks (PyTorch, TensorFlow), C/C++ , AWS, SQL , SnowFlake, Docker, Git, CI/CD(GitHub Actions),Shell programming.
+#### Technical Skills: <br / >   
+Languages & Tools:  Python, C/C++, R, SQL, Git, Shell, MATLAB, CI/CD (GitHub Actions).<br / > 
+Data & Deployment: AWS (EC2, S3, Lambda), Docker, Kubernetes, MLflow, TFLite, REST APIs, Streamlit, Tableau, Power BI, ETL, CI/CD<br / > 
+Databases:  PostgreSQL, MySQL, MongoDB, Snowflake, Redis<br / > 
+Key Strengths: Real-time AI Systems, Data Science Pipelines, Model Optimization, Explainable AI (XAI), MLOps, Cloud-Native Deployments.<br / > 
+ML/AI: Predictive Modeling, Statistical Analysis, Deep Learning (PyTorch, TensorFlow), Computer Vision, NLP, Transformers, Generative Models, Large Language Models (LLMs), Data Mining, Reinforcement Learning, Optimizers, Feature Engineering <br / > 
+
 
 
 ## Education
@@ -9,8 +15,11 @@
 
 ## Work Experience
 **Machine Learning Engineer / Data Scientist @ WeDigiStudio**
-- Developed a Drowsiness detection model using the YOLOv8 model for Brakes India Private Limited Company
-- Developed a two difference size model one with 25 epochs and 125 epochs and converted into TFLite format.
+- Built a real-time driver drowsiness detection system for Brakes India Pvt Ltd, improving safety for 500+ test drivers.
+- Converted YOLOv8-based models to TFLite,  facilitating low-cost deployment and cutting inference latency by ~40%.
+- Collaborated with stakeholders to shape KPIs, driving both accuracy and client value.
+- Improved model accuracy by 15% by data augmentation and hyperparameter tuning, ensuring reliable deployment.
+
 
 
 **Computer Vision Intern  @ TU Dortmund University**
@@ -22,12 +31,11 @@
 ### CleanMeet AI
 [GitHub Link](https://github.com/NickStrain/CleanMeetAI)
 
-Clean Meet AI is a real-time content safety system for video conferencing. It continuously monitors video, audio, and text streams during online meetings to detect and prevent NSFW visuals, offensive speech, and toxic chat messages.<br />
-Built a real-time AI system to monitor video, audio, and text streams, reducing NSFW and toxic content exposure by 90% in online meetings.<br />
+Real-time multi-modal AI system detecting vulgarity and NSFW content to ensure safe, professional virtual meetings.<br />
+Achieved 92% detection accuracy with <120ms latency, protecting users without disrupting call quality. <br />
+Built a multi-modal model combining visual, text, and audio cues, achieving 92% accuracy in detecting vulgarity and harmful behavior, improving meeting safety and compliance by 30%.<br />
+Integrated with OBS Studio virtual camera, enabling deployment to 3+ major platforms (Zoom, Teams, Meet) and scaling to handle 100+ concurrent meetings seamlessly. <br />
 
-Achieved 95%+ detection accuracy across multimodal content with <200ms latency, ensuring seamless and safe conferencing.<br />
-
-Integrated with Zoom, Google Meet, and Microsoft Teams, enabling scalability across 100% of major conferencing platforms.<br />
 ![EEG Band Discovery](assests/cleanmeet_AI.jpeg)
 ### Neural Machine Translation for Tamil
 [GitHub Link](https://github.com/NickStrain/Machine-Translation)

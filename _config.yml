@@ -3,8 +3,9 @@ logo: assests/profile_photo.jpeg
 
 # This will show on the LEFT side under the profile photo
 description: |
-  Check out my projects on <a href="https://github.com/NickStrain" target="_blank">GitHub</a>.
-
+  Check out my projects on <a href="https://github.com/NickStrain" target="_blank">GitHub</a>. <br / >  
+  Check out my <a href="https://www.linkedin.com/in/shuga-vaneshwar-922603226/" target="_blank">LinkedIn </a> <br />
+  
 theme: jekyll-theme-minimal
 show_downloads: false   # removes GitHub logo button
 
